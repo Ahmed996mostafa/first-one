@@ -1,1 +1,1 @@
-add configurations
+add configurations from remote
